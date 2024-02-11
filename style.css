@@ -26,7 +26,7 @@ h1 span::before{
     right: -8px;
     top: 50%;
     position: absolute;
-    height: 65px;
+    height: 45px;
     width: 2px;
     background-color: #BD53ED;
     transform: translateY(-45%);
